@@ -1,2 +1,2 @@
 # ejemplo-pull
-repositorio para practuicar git pull pull
+repositorio para practuicar git pull R2
